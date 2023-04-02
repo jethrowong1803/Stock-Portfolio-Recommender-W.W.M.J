@@ -1,6 +1,6 @@
 Stock Recommendation System Report
 
-Table of Contents
+# Table of Contents
 
 [**1.** **Introduction**](#_Toc131117046)
 
@@ -103,7 +103,7 @@ Feature engineering is a crucial step in developing effective machine learning m
 1.  Annualized Returns (R) formula:
 
     R = [(P_end / P_start)\^(1/n)] – 1  
-     Where P_end is the ending price, P_start is the starting price, and n is the number of periods (usually days) the investment was held.
+    Where P_end is the ending price, P_start is the starting price, and n is the number of periods (usually days) the investment was held.
 
 2.  Annualized Volatility (σ) formula:
 
@@ -121,14 +121,14 @@ Feature engineering is a crucial step in developing effective machine learning m
 
 5.  Annualized Max Drawdown formula:
 
-    Max Drawdown = (Peak Value - Trough Value) / Peak Value   
-    Annualized Max Drawdown = [(1 - Max Drawdown)\^(252 / n)] - 1   
+    Max Drawdown = (Peak Value - Trough Value) / Peak Value  
+    Annualized Max Drawdown = [(1 - Max Drawdown)\^(252 / n)] - 1  
     Where n is the number of days in the investment period.
 
 6.  Annualized Sharpe Ratio formula:
 
-    Sharpe Ratio = (R_p - R_f) / σ_p   
-    Annualized Sharpe Ratio = √(252) \* Sharpe Ratio   
+    Sharpe Ratio = (R_p - R_f) / σ_p  
+    Annualized Sharpe Ratio = √(252) \* Sharpe Ratio  
     Where R_p is the portfolio return, R_f is the risk-free rate, and σ_p is the portfolio standard deviation.
 
 7.  Annualized Beta formula: Beta = Covariance(stock returns, market returns) / Variance(market returns) Annualized Beta = Beta \* (√(252))
