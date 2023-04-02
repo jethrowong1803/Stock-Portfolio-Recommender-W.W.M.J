@@ -1,7 +1,17 @@
-I have posted a detailed article on medium for my stock portfolio recommender.
+# Please visit these links:
 
-Medium page: <https://medium.com/jethrowong/stock-portfolio-recommender-a1115de1a257>
+# Medium Article:
 
-Streamlit App: <https://investimate-jwwm-stockrecommendationsystem.streamlit.app/>
+<https://medium.com/jethrowong/stock-portfolio-recommender-a1115de1a257>
 
-Tableau Dashboard: <https://public.tableau.com/app/profile/jethro8602/viz/StockRecommendationSystem/PortfoliosRecommendationDashboard>
+# Streamlit App:
+
+<https://investimate-jwwm-stockrecommendationsystem.streamlit.app/>
+
+# Tableau Dashboard:
+
+<https://public.tableau.com/app/profile/jethro8602/viz/StockRecommendationSystem/PortfoliosRecommendationDashboard>
+
+# Canva Presentation:
+
+<https://www.canva.com/design/DAFeuyT0ghA/6H4uAx__b5olkWRRd18yIw/edit?utm_content=DAFeuyT0ghA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
