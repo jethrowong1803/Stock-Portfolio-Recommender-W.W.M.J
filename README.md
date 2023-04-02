@@ -1,4 +1,4 @@
-Stock Recommendation System Report
+# Stock Recommendation System Report
 
 # Table of Contents
 
